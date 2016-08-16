@@ -42,6 +42,7 @@ var rules = {
   ],
   "~*x marco ~*y": [
     "polo",
+    "i don't play games.",
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
